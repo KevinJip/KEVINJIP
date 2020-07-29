@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+.navbar-ligth{
+    background-color: black;
+    border-color: blue;
+}
+
+.card-body{
+    background-color: black;
+    border: blue;
+}
+.card{
+    color: snow;
+
+}
+
+.navbar1{
+    background-color: yellow;
+}
+
+.navbar2{
+    background-color: goldenrod;
+}
+
+.navbar3{
+    background-color: orangered;
+}
+
+.navbar4{
+    background-color: white;
+}
+
+.navbar5{
+    background-color: blue;
+}
+
+.navbar6{
+    background-color: blueviolet;
+}
